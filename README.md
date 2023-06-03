@@ -1,6 +1,6 @@
 # theme_management_using_provider
 
-In this project i implement Dark and light through Provider State Management 
+In this project I implement Dark and light through Provider State Management then i use shared pref for theme persistence 
 
 ## Getting Started
 
