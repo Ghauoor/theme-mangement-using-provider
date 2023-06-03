@@ -1,15 +1,18 @@
 # theme_management_using_provider
 
-A new Flutter project.
+In this project i implement Dark and light through Provider State Management 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Output
+## Light Theme 
+![light_theme](https://github.com/Ghauoor/theme-mangement-using-provider/assets/92637639/2a7dad56-d332-4921-b525-a5f1a7b25325)
+## Dark Theme 
+![Screenshot_1685780294](https://github.com/Ghauoor/theme-mangement-using-provider/assets/92637639/10293ac6-5de1-475b-8fbc-2be573ca25b4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
